@@ -2,7 +2,7 @@
 I'm Selenge Tulga, a data engineer and data scientist with experience in handling complex data projects...
 
 ## Skills and Technologies
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL, R, Java, Php
 - **Tools:** Spark, MLflow, Airflow, Tableau
 - **Libraries:** Pandas, NumPy, Scikit-learn
 
