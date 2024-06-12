@@ -1,6 +1,4 @@
-## I'm Selenge Tulga (Sam)  👋 
-
-## About Me
+## Hey! How you doing 👋 
 
 I'm Selenge Tulga, a data engineer and data scientist with experience in handling complex data projects...
 
