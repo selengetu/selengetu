@@ -8,7 +8,6 @@ I'm Selenge Tulga, a data engineer and data scientist with experience in handlin
 
 ## Projects
 - **[Tweet sentiment analysis - Spark ](https://github.com/selengetu/End-to-end-Sentiment-Data-Project):** A project to track tweet sentiment using a pretrained transformer classifier...
-- **[UR Found](https://github.com/selengetu/ur-found)
 
 ## Contact
 - **LinkedIn:** [Selenge Tulga](https://www.linkedin.com/in/selenge-tulga/)
