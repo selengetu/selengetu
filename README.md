@@ -1,8 +1,4 @@
-## Hey! How you doing 👋 I'm Selenge Tulga (Sam)
-
-## Data Engineer | Data Scientist
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/selenge-tulga/)
+## Hey! How you doing 👋
 
 ## About Me
 I'm Selenge Tulga, a data engineer and data scientist with experience in handling complex data projects...
