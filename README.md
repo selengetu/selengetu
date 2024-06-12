@@ -1,4 +1,5 @@
-## Hey! How you doing 👋
+## Well hello there!
+
 I'm Selenge Tulga, a data engineer and data scientist with experience in handling complex data projects...
 
 ## Skills and Technologies
