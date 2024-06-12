@@ -8,6 +8,8 @@ I'm Selenge Tulga, a data engineer and data scientist with experience in handlin
 
 ## Projects
 - **[Tweet sentiment analysis - Spark ](https://github.com/selengetu/End-to-end-Sentiment-Data-Project):** A project to track tweet sentiment using a pretrained transformer classifier...
+- **[Motion Lab Data Integration](https://github.com/selengetu/Motion-Lab-Data-Integration):** Integrated a database for Motion Lab data including EEG, EMG, and kinematic data...
+
 
 ## Contact
 - **LinkedIn:** [Selenge Tulga](https://www.linkedin.com/in/selenge-tulga/)
