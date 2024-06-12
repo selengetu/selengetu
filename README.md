@@ -12,7 +12,7 @@ I'm Selenge Tulga, a data engineer and data scientist with experience in handlin
 
 ## Contact
 - **LinkedIn:** [Selenge Tulga](https://www.linkedin.com/in/selenge-tulga/)
-- **Email:** selenge.tulga@example.com
+- **Email:** selengetu@gmail.com
 
 
 <!--
