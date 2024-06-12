@@ -1,8 +1,14 @@
-## Hi there 👋
+## I'm Selenge Tulga (Sam)  👋 
+
+## About Me
+
+I'm Selenge Tulga, a data engineer and data scientist with experience in handling complex data projects...
+
 
 <!--
 **selengetu/selengetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub followers](https://img.shields.io/github/followers/username?style=social)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/username/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
