@@ -2,15 +2,13 @@
 
 I am Selenge Tulga (Sam), a data engineer and data scientist with experience in handling complex data projects. Previously, I worked as a software engineer for 6 years in the railway industry, where I developed robust software solutions and honed my technical skills.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selengetu@gmail.com)
+
 ## Skills and Technologies 🐱‍💻
 - **Languages:** Python, SQL, R, Java, PHP
 - **Tools:** Spark, MLflow, Airflow, Tableau
 - **Libraries:** Pandas, NumPy, Scikit-learn
-- 
-## Contact 🤙💬
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selengetu@gmail.com)
 
 ## More about me 🪆
 - 🌱 I’m currently learning system design, focusing on scalable architecture and microservices.
