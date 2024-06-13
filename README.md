@@ -1,6 +1,6 @@
 ## Well hello there! ✨
 
-I am Selenge Tulga (Sam), a data engineer and data scientist with experience in handling complex data projects. Previously, I worked as a software engineer for 5 years in the railway industry, where I developed robust software solutions and honed my technical skills.
+I am Selenge Tulga (Sam), a data engineer and data scientist with experience in handling complex data projects. Previously, I worked as a software engineer for 6 years in the railway industry, where I developed robust software solutions and honed my technical skills.
 
 ## Education
 
