@@ -2,12 +2,12 @@
 
 I am Selenge Tulga (Sam), a data engineer and data scientist with experience in handling complex data projects. Previously, I worked as a software engineer for 6 years in the railway industry, where I developed robust software solutions and honed my technical skills.
 
-## Education 👩🏻‍🔬
+## Education 👩🏻‍🔬🎓
 
 - **University of Rochester:** Pursuing a degree in Data Science (Graduating December 2024)
 - **Mongolian University of Science and Technology:** Bachelor's degree in Computer Science (2017)
 
-## Passion 🧩
+## Passion 🧩🔋
 
 I am deeply passionate about:
 - **Data Engineering:** Designing and building scalable data architectures.
