@@ -7,8 +7,8 @@ I am Selenge Tulga (Sam), a data engineer and data scientist with experience in 
 
 ## Skills and Technologies 🐱‍💻
 - **Languages:** Python, SQL, R, Java, PHP
-- **Tools:** Spark, MLflow, Airflow, Tableau
-- **Libraries:** Pandas, NumPy, Scikit-learn
+- **Tools:** Spark, Hadoop, Kafka, Airflow, MLflow, Tableau
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 
 ## More about me 🪆
 
