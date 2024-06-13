@@ -6,6 +6,11 @@ I am Selenge Tulga (Sam), a data engineer and data scientist with experience in 
 - **Languages:** Python, SQL, R, Java, PHP
 - **Tools:** Spark, MLflow, Airflow, Tableau
 - **Libraries:** Pandas, NumPy, Scikit-learn
+- 
+## Contact 🤙💬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selengetu@gmail.com)
 
 ## More about me 🪆
 - 🌱 I’m currently learning system design, focusing on scalable architecture and microservices.
