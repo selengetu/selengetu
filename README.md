@@ -7,14 +7,10 @@ I am Selenge Tulga (Sam), a data engineer and data scientist with experience in 
 - **Tools:** Spark, MLflow, Airflow, Tableau
 - **Libraries:** Pandas, NumPy, Scikit-learn
 
-## Projects 📈📊
-- **[Tweet Sentiment Analysis - Spark](https://github.com/selengetu/End-to-end-Sentiment-Data-Project):** A project to track tweet sentiment using a pretrained transformer classifier.
-- **[Motion Lab Data Integration](https://github.com/selengetu/Motion-Lab-Data-Integration):** Integrated a database for Motion Lab data including EEG, EMG, and kinematic data.
-
 ## More about me 🪆
 - 🌱 I’m currently learning system design, focusing on scalable architecture and microservices.
 - 🔭 I’m currently working on Databricks Data Engineer certification and AWS Data Engineer certification.
-- 👩‍💼 I am an intern in the Motion Lab at URMC, where I apply my data engineering skills to rehabilitation research projects. My work involves integrating and analyzing complex datasets from various sources, such as EEG, EMG, and kinematic data, to support innovative research aimed at improving patient outcomes.
+- 👩‍💼 I am master student of UofR an intern in the Motion Lab at URMC, where I apply my data engineering skills to rehabilitation research projects. My work involves integrating and analyzing complex datasets from various sources, such as EEG, EMG, and kinematic data, to support innovative research aimed at improving patient outcomes.
 
 
 <!--
