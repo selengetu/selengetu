@@ -11,9 +11,11 @@ I am Selenge Tulga (Sam), a data engineer and data scientist with experience in 
 - **Libraries:** Pandas, NumPy, Scikit-learn
 
 ## More about me 🪆
+
+- 👩‍💼 Data Science master's student at UofR and intern at URMC Motion Lab, applying data engineering skills to rehabilitation research.
 - 🌱 I’m currently learning system design, focusing on scalable architecture and microservices.
 - 🔭 I’m currently working on Databricks Data Engineer certification and AWS Data Engineer certification.
-- 👩‍💼 I am master student of UofR an intern in the Motion Lab at URMC, where I apply my data engineering skills to rehabilitation research projects. My work involves integrating and analyzing complex datasets from various sources, such as EEG, EMG, and kinematic data, to support innovative research aimed at improving patient outcomes.
+
 
 
 <!--
