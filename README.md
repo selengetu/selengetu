@@ -28,6 +28,7 @@ I am deeply passionate about:
 - **LinkedIn:** [Selenge Tulga](https://www.linkedin.com/in/selenge-tulga/)
 - **Email:** selengetu@gmail.com
 
+## More about me 🪆
 - 🌱 I’m currently learning system design, focusing on scalable architecture and microservices.
 - 🔭 I’m currently working on Databricks Data Engineer certification and AWS Data Engineer certification.
 - 👩‍💼 I am an intern in the Motion Lab at URMC, where I apply my data engineering skills to rehabilitation research projects. My work involves integrating and analyzing complex datasets from various sources, such as EEG, EMG, and kinematic data, to support innovative research aimed at improving patient outcomes.
