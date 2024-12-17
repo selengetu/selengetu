@@ -1,6 +1,6 @@
 ## Well hello there! ✨
 
-I am Selenge Tulga, a data engineer with 6 years experience with software and database.
+I am Selenge Tulga, a data engineer with 6 years experience with software and data engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selengetu@gmail.com)
