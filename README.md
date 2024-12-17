@@ -8,25 +8,14 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 
 ## 🛠️ Skills & Technologies  
 
-### **Languages**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+### **Languages**  : Python, SQL, R, Java, PHP
 
 ### **Data Engineering**  
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow  
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Oracle  
-- **Cloud Platforms**:  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)  
-  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+- **Cloud Platforms**: AWS, GCP, AZURE
 
-### **Data Visualization & Analytics**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=flat&logo=amazonaws&logoColor=white)  
+### **Data Visualization & Analytics**: Tableau, Power BI, Amazon QuickSight
 
 ---
 
