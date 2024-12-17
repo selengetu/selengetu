@@ -9,11 +9,11 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 ## 🛠️ Skills & Technologies  
 
 ### **Languages**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ### **Data Engineering**  
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow  
