@@ -28,17 +28,6 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 
 ---
 
-## 🚀 Projects  
-
-### **Tweet Sentiment Analysis using Databricks Spark**  
-- Transformed **200K tweets** using **PySpark** and **Delta Lake architecture** for real-time analysis.  
-- Designed a **real-time sentiment analysis pipeline** using **Spark Streaming** and Medallion architecture.  
-- Deployed a pre-trained **HuggingFace model** via **MLflow** for scalable sentiment classification.  
-
-[View Project](#) | [GitHub Repo](#)  
-
----
-
 ## 🧩 More About Me  
 
 - 🎓 I hold a **BSc in Computer Science** from **MUST** and I’m completing my **MS in Data Science** at the **University of Rochester** (*Dec 2024*).  
