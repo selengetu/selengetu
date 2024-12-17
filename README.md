@@ -30,7 +30,7 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 
 ## 🧩 More About Me  
 
-- 🎓 I hold a **BSc in Computer Science** from **MUST** and I’m completing my **MS in Data Science** at the **University of Rochester** (*Dec 2024*).  
+- 🎓 I hold a **BSc in Computer Science** from **MUST** and **MS in Data Science** at the **University of Rochester** 
 - 🌱 I’m currently enhancing my skills through **Zach Wilson's 12-week Data Engineering Bootcamp**.  
 - 💼 I’m actively seeking **Data Engineer roles** where I can solve data challenges and contribute to impactful projects.  
 - 🏆 I am passionate about **building scalable data infrastructures** and leveraging **machine learning pipelines** for actionable insights.  
