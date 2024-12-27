@@ -11,7 +11,7 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 ### **Languages**  : Python, SQL, R, Java, PHP
 
 ### **Data Engineering**  
-- **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake
+- **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Oracle  
 - **Cloud Platforms**: AWS, GCP, Azure
 
@@ -21,7 +21,8 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 
 ## 🎓 Certifications  
 
-- **AWS Certified Data Engineer – Associate**  
+- **AWS Certified Data Engineer – Associate**
+- **AWS Certified Machine Learning Engineer – Associate**  
 - **AWS Certified Machine Learning – Specialty**  
 - **Databricks Certified Data Engineer – Associate**  
 - **Databricks Certified Data Engineer – Professional**  
