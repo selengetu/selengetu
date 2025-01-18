@@ -8,7 +8,7 @@ I’m **Selenge Tulga**, a **Data Engineer** with 6+ years of experience in soft
 
 ## 🛠️ Skills & Technologies  
 
-### **Languages**  : Python, SQL, R, Java, PHP
+### **Languages**  : Python, SQL, R, Java
 
 ### **Data Engineering**  
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
