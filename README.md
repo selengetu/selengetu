@@ -15,7 +15,7 @@ I’m **Selenge Tulga**, a **Data Engineer** in ZAG. I specialize in building sc
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Oracle  
 - **Cloud Platforms**: AWS, GCP, Azure
 
-### **Data Visualization & Analytics**: Tableau, Power BI, Amazon QuickSight
+### **Data Visualization & Analytics**: Tableau, Power BI, Amazon QuickSight, Looker
 
 ---
 
