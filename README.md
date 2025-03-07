@@ -8,7 +8,7 @@ I’m **Selenge Tulga**, a **Data Engineer** in ZAG. I specialize in building sc
 
 ## 🛠️ Skills & Technologies  
 
-### **Languages**  : Python, SQL, R, Java
+### **Languages**  : Python, SQL, Java
 
 ### **Data Engineering**  
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
