@@ -1,6 +1,6 @@
 ## 👋 Well Hello There! ✨  
 
-I’m **Selenge Tulga**, a **Data Engineer** in ZAG. BS in Computer Science and MS in Data Science, I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through cutting-edge technologies.  
+I’m **Selenge Tulga**, a **Data Engineer**, BS in Computer Science and MS in Data Science, I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through cutting-edge technologies.  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selengetu@gmail.com)
 
