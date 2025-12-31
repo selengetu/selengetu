@@ -8,7 +8,7 @@ I’m **Selenge Tulga**, a **Data Engineer**, BS in Computer Science and MS in D
 
 ## 🛠️ Skills & Technologies  
 
-### **Languages**  : Python, SQL, Java, R
+### **Languages**  : Python, SQL
 
 ### **Data Engineering**  
 - **Processing**: Spark, Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, dbt
