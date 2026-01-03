@@ -1,6 +1,6 @@
 ## 👋 Well Hello There! ✨  
 
-I’m **Selenge Tulga** ,I’m a **Data Engineer** with a **B.S. in Computer Science** and an **M.S. in Data Science**, focused on building **reliable, scalable data pipelines** and turning complex data into **trusted, actionable insights**.
+I’m **Selenge Tulga** , I’m a **Data Engineer** with a **B.S. in Computer Science** and an **M.S. in Data Science**, focused on building **reliable, scalable data pipelines** and turning complex data into **trusted, actionable insights**.
 
 I enjoy working at the intersection of **data systems, analytics, and business**, with a strong emphasis on correctness, performance, and long-term maintainability.
 
