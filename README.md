@@ -4,7 +4,8 @@ I’m **Selenge Tulga** , I’m a **Data Engineer** with **7+ years of experienc
 
 I enjoy working at the intersection of **data systems, analytics, and real-world constraints**, with a strong emphasis on **data correctness, observability, and long-term maintainability**. I care less about flashy tools and more about systems that are easy to reason about and trust.
 
-📍 Based in the Austin Tx
+📍  Based in **Austin, TX ** 🇺🇸
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
