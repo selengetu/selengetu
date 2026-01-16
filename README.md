@@ -23,7 +23,6 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 
 > I choose tools based on reliability, scale, and operational needs — not trends.
 
-### **Data Visualization & Analytics**: Tableau, Power BI, Amazon QuickSight
 
 ---
 
