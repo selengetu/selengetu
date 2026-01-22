@@ -1,6 +1,6 @@
 ## 👋 Well Hello There! ✨  
 
-I’m **Selenge Tulga** , I’m a **Data Engineer** with **4+ years of experience** and a background in **Computer Science (B.S.)** and **Data Science (M.S.)**. I focus on building **reliable, production-grade data platforms** that replace manual reporting and support **finance, operations, and business decision-making**.
+I’m **Selenge Tulga** , I’m a **Data Engineer** with **7 years (4.5 DE + 2.5 SWE) of experience** and a background in **Computer Science (B.S.)** and **Data Science (M.S.)**. I focus on building **reliable, production-grade data platforms** that replace manual reporting and support **finance, operations, and business decision-making**.
 
 I enjoy working at the intersection of **data systems, analytics, and real-world constraints**, with a strong emphasis on **data correctness, observability, and long-term maintainability**. I care less about flashy tools and more about systems that are easy to reason about and trust.
 
