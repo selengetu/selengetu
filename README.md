@@ -7,7 +7,6 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 📍  Based in **Austin, TX** 🇺🇸
 
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenge-tulga/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selengetu@gmail.com)
 
@@ -17,9 +16,9 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 
 ### **Data Engineering & Analytics**
 - **Warehousing & Modeling**: Snowflake, dbt, PostgreSQL, Redshift  
-- **Pipelines & Orchestration**: Airflow, AWS Glue, ETL/ELT  
+- **Pipelines & Orchestration**: Airflow, Prefect, AWS Glue, ETL/ELT  
 - **Streaming & Processing**: Kafka, Spark (when scale or latency requires it)  
-- **Cloud**: AWS (primary)  
+- **Cloud**: AWS (primary), GCP
 - **Visualization**: Tableau, Power BI, Amazon QuickSight  
 
 > I choose tools based on reliability, scale, and operational needs — not trends.
