@@ -17,7 +17,7 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 ### **Data Engineering & Analytics**
 - **Warehousing & Modeling**: Snowflake, dbt, PostgreSQL, Redshift  
 - **Pipelines & Orchestration**: Airflow, Prefect, AWS Glue, ETL/ELT  
-- **Streaming & Processing**: Kafka, Spark (when scale or latency requires it)  
+- **Streaming & Processing**: Kafka, Flink, Spark, Databricks (when scale or latency requires it)  
 - **Cloud**: AWS (primary), GCP
 - **Visualization**: Tableau, Power BI, Amazon QuickSight  
 
