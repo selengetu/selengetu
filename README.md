@@ -42,5 +42,3 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 - Building **small, focused projects** that demonstrate production-ready data pipelines  
 - Practicing **failure handling, monitoring, and data quality patterns**
 
----
-⭐ If you’re interested in **reliable data systems**, pragmatic architecture, or clean analytics foundations, feel free to connect.
