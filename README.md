@@ -37,7 +37,7 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 ---
 
 ## 🚀 What I’m Focused On Now
-- Preparing for **Data Engineer** roles  
+- Preparing for Big Tech **Data Engineer** roles  
 - Deepening expertise in **SQL, data modeling, and system design**  
 - Building **small, focused projects** that demonstrate production-ready data pipelines  
 - Practicing **failure handling, monitoring, and data quality patterns**
