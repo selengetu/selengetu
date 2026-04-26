@@ -37,8 +37,7 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 ---
 
 ## 🚀 What I’m Focused On Now
-- Preparing for Big Tech **Data Engineer** roles  
-- Deepening expertise in **SQL, data modeling, and system design**  
-- Building **small, focused projects** that demonstrate production-ready data pipelines  
+- Real-time trending topics pipeline: Kafka → PySpark Structured Streaming → AWS lakehouse (Parquet, idempotent writes)
+- AI-powered data quality monitor: Airflow + dbt + Great Expectations + Claude API → Slack alerts in under 30 seconds
 - Practicing **failure handling, monitoring, and data quality patterns**
 
