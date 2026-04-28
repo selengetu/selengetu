@@ -21,8 +21,6 @@ I enjoy working at the intersection of **data systems, analytics, and real-world
 - **Cloud**: AWS (primary), GCP
 - **Visualization**: Tableau, Power BI, Amazon QuickSight  
 
-> I choose tools based on reliability, scale, and operational needs — not trends.
-
 
 ---
 
